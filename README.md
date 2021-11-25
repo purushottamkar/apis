@@ -22,7 +22,7 @@ The *ker_reg* folder contains four jupyter notebook files applying APIS for func
 The *lin_reg* folder contains two jupyter notebook files applying APIS for robust linear regression setting in Fig. 4.
 
 3. **Image Denoising:** 
-In the img folder, the *fourier_cann_sp.ipynb* file gives APIS for adversarial salt-pepper corruption as reported in Fig. 6 and *fourier_wavelet_block.ipynb* gives APIS for block corruption as reported in Fig. 7. Additionally, the *image_noise.ipynb* file gives code for introducing these corruption.
+In the img folder, the *Adversarial_Salt_Pepper_Corruption.ipynb* file gives APIS for adversarial salt-pepper corruption as reported in Fig. 6 and *Block_Corruption.ipynb* gives APIS for block corruption as reported in Fig. 7. Additionally, the *Generate_Corrupted_Image.ipynb* file gives code for introducing these corruption.
 
 ## Expected Duration
 Following are the time taken to run the respective notebooks on a 64-bit machine with Intel® CoreTM i7-6500U CPU @ 2.50 GHz, 4 cores, 16 GB RAM and Ubuntu 16.04 OS.
